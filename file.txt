@@ -2,3 +2,4 @@ ashok reddy
 pinnelli
 Clone is process of download the changes(files/directories - commits) from remote repository to local repository.
           Clone will download only the default branch of that repository.
+ashok
